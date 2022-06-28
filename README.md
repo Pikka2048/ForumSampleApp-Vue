@@ -1,4 +1,4 @@
-# flont
+# ForumSampleApp-Vue
 
 ## Project setup
 ```
